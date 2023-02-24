@@ -1,4 +1,5 @@
 
+
 #tamimg{
     width: 1310px;
     height: 670px;
@@ -51,8 +52,8 @@
 
 #tamsob{
     box-shadow: 5px 5px 5px rgb(0, 0, 0);
-    width: 200px;
-    height: 250px;
+    width: 260px;
+    height: 270px;
     border-radius: 12px;
     margin-left: 780px;
     border-radius: 30px;
@@ -70,600 +71,7 @@
     margin-left: -350px;
 }
 
-/* PERFIL DO PROFISSIONAL */
 
-#color-profissional{
-    background-color: #515151;
-    margin-top: 0px;
-   
-}
-
-#perfil-profissional{
-    font-weight: bold;
-    color: #FFFF;
-    font-family:  'Helvetica';
-    font-size: 30px;
-    text-align: left;
-    margin-left: 70px;
-    margin-top: 40px;
-    letter-spacing: 0.6px;
-}
-
-
-
-#pt1{
-   
-    color: #FFFF;
-    font-family:  'Helvetica';
-    font-size: 25px;
-    text-align: left;
-    margin-left: 2px;
-    margin-top: 40px;
-    letter-spacing: 0.6px;
-}
-
-#tecnologia{
-
-    color: #FFFF;
-    font-family:  'Helvetica';
-    font-size: 20px;
-    text-align: left;
-    margin-left: 0px;
-    margin-top: 40px;
-    letter-spacing: 0.6px;
-    columns: 2;
-}
-
-#pt2{
-   
-    color: #FFFF;
-    font-family:  'Helvetica';
-    font-size: 25px;
-    text-align: left;
-    margin-left: 2px;
-    margin-top: 40px;
-    letter-spacing: 0.6px;
-}
-
-#dinamico{
-
-    color: #FFFF;
-    font-family:  'Helvetica';
-    font-size: 20px;
-    text-align: left;
-    margin-left: 0px;
-    margin-top: 40px;
-    letter-spacing: 0.6px;
-    columns: 2;
-}
-
-#pt3{
-   
-    color: #FFFF;
-    font-family:  'Helvetica';
-    font-size: 25px;
-    text-align: left;
-    margin-left: 640px;
-    margin-top: -315px;
-    letter-spacing: 0.6px;
-    margin-top: -420px;
-}
-
-#matematica{
-
-    color: #FFFF;
-    font-family:  'Helvetica';
-    font-size: 20px;
-    text-align: left;
-    margin-left: 0px;
-    margin-top: 40px;
-    letter-spacing: 0.6px;
-
-}
-
-#pt4{
-   
-    color: #FFFF;
-    font-family:  'Helvetica';
-    font-size: 25px;
-    text-align: left;
-    margin-left: 640px;
-    margin-top: 40px;
-    letter-spacing: 0.6px;
-}
-
-#equipe{
-
-    color: #FFFF;
-    font-family:  'Helvetica';
-    font-size: 20px;
-    text-align: left;
-    margin-left: 0px;
-    margin-top: 40px;
-    letter-spacing: 0.6px;
-
-
-}
-
-/* APRENDER */
-
-
-#color-aprende{
-    background-color: #666666;
-  
-}   
-
-#tema-aprender{
-    font-weight: bold;
-    color: #FFFF;
-    font-family:  'Helvetica';
-    font-size: 25px;
-    text-align: left;
-    margin-left: 70px;
-    margin-top: 100px;
-    
-}
-
-
-#aprende-easy{
-    font-weight: bold;
-    color: #FFFF;
-    font-family:  'Helvetica';
-    font-size: 25px;
-    margin-left: 40px;
-}
-
-#txt-easy{
-    font-weight: bold;
-    color: #FFFF;
-    font-family:  'Helvetica';
-    font-size: 20px;
-    margin-left: 40px;
-}
-
-
-
-#cards-aprende{
-   
-    margin-left: 0px;
-    width: 350px;
-    height: 500px;
-    border-radius: 20px;
-}
-
-#cards-aprende2{
-   
-    margin-left: 375px;
-    margin-top: -524px;
-    width: 350px;
-    height: 500px;
-    border-radius: 20px;
-}
-
-#cards-aprende3{
-   
-    margin-left: 750px;
-    margin-top: -524px;
-    width: 350px;
-    height: 500px;
-    border-radius: 20px;
-}
-
-#img-aprende{
-    width: 300px;
-    height: 160px;
-    margin-left: 25px;
-    margin-top: 8px;
-    border-radius: 30px;
-    box-shadow: 5px 5px 5px rgb(0, 0, 0);
-}
-
-#img-aprende2{
-    width: 300px;
-    height: 160px;
-    margin-left: 25px;
-    margin-top: 8px;
-    border-radius: 30px;
-    box-shadow: 5px 5px 5px rgb(0, 0, 0);
-}
-
-#img-aprende3{
-    width: 300px;
-    height: 160px;
-    margin-left: 25px;
-    margin-top: 8px;
-    border-radius: 30px;
-    box-shadow: 5px 5px 5px rgb(0, 0, 0);
-}
-
-#cards-text{
-    letter-spacing: 0.6px;
-    margin-top: -30px;
-    font-size: 20px;
-    padding: 30px;
-    margin-left: 0px;
-    color: #FFFF;
-    font-family:  'Helvetica';
-}
-
-#cards-text2{
-    letter-spacing: 0.6px;
-    margin-top: -30px;
-    font-size: 20px;
-    padding: 30px;
-    margin-left: 0px;
-    color: #FFFF;
-    font-family:  'Helvetica';
-}
-
-#cards-text3{
-    letter-spacing: 0.6px;
-    margin-top: -30px;
-    font-size: 20px;
-    padding: 30px;
-    margin-left: 0px;
-    color: #FFFF;
-    font-family:  'Helvetica';
-}
-
-
-
-
-
-/* GRADE */
-
-#color-grade{
-    background-color: #8c8c8c;
-}
-
-#grade-easy{
-    font-weight: bold;
-    color: #FFFF;
-    font-family:  'Helvetica';
-    font-size: 25px;
-
-}
-
-#text-easy{
-    font-weight: bold;
-    color: #FFFF;
-    font-family:  'Helvetica';
-    font-size: 20px;
-
-}
-
-#title-grade{
-    font-weight: bold;
-    color: #FFFF;
-    font-family:  'Helvetica';
-    font-size: 25px;
-
-
-}
-
-#text-grade{
-    color: #FFFF;
-    font-family:  'Helvetica';
-    font-size: 17px;
-}
-
-#text-grade2{
-    color: #FFFF;
-    font-family:  'Helvetica';
-    font-size: 17px;
-}
-
-#text-grade3{
-    color: #FFFF;
-    font-family:  'Helvetica';
-    font-size: 17px;
-}
-
-#text-clique{
-    color: #FFFF;
-    font-family:  'Helvetica';
-    font-size: 17px;
-}
-
-#cards-grade1{
-   background-color: #8c8c8c;
-    margin-left: 0px;
-    width: 350px;
-    height: 400px;
-    border-radius: 20px;
-}
-
-#cards-grade2{
-    background-color: #8c8c8c;
-     margin-left: 0px;
-     width: 350px;
-     height: 400px;
-     border-radius: 20px;
- }
-
- #cards-grade3{
-
-
-     margin-left: 0px;
-     width: 350px;
-     height: 400px;
-     border-radius: 20px;
- }
-
-
-/* COMO INGRESSAR */
-
-#color-ingressar{
-    background-color: #8c8c8c;
-}
-
-#tema-ingressar{
-    font-weight: bold;
-    color: #FFFF;
-    font-family:  'Helvetica';
-    font-size: 50px;
-    text-align: left;
-    margin-left: 70px;
-    margin-top: 40px;
-    letter-spacing: 0.6px;
-}
-
-#elipse{
-    width:  50px;
-    height: 50px;
-    background: #5C96CC;
-    position: relative;
-    border-radius: 60px;
-    margin-left: 70px;
-    margin-top: 20px;
-}
-
-#text-ing{
-    font-size: 20px;
-    margin-left: 150%;
-    color: #FFFF;
-    font-family:  'Helvetica';
-    white-space: nowrap;
-}
-
-#elipse2{
-    width:  50px;
-    height: 50px;
-    background: #5C96CC;
-    position: relative;
-    border-radius: 60px;
-    margin-left: 70px;
-    margin-top: 20px;
-}
-
-#text-ing2{
-    font-size: 20px;
-    margin-left: 150%;
-    color: #FFFF;
-    font-family:  'Helvetica';
-    white-space: nowrap;
-}
-
-#elipse3{
-    width:  50px;
-    height: 50px;
-    background: #5C96CC;
-    position: relative;
-    border-radius: 60px;
-    margin-left: 70px;
-    margin-top: 20px;
-}
-
-#text-ing3{
-    font-size: 20px;
-    margin-left: 150%;
-    color: #FFFF;
-    font-family:  'Helvetica';
-    white-space: nowrap;
-}
-
-#elipse4{
-    width:  50px;
-    height: 50px;
-    background: #5C96CC;
-    position: relative;
-    border-radius: 60px;
-    margin-left: 70px;
-    margin-top: 20px;
-}
-
-#text-ing4{
-    font-size: 20px;
-    margin-left: 150%;
-    color: #FFFF;
-    font-family:  'Helvetica';
-    white-space: nowrap;
-}
-
-#elipse5{
-    width:  50px;
-    height: 50px;
-    background: #5C96CC;
-    position: relative;
-    border-radius: 60px;
-    margin-left: 70px;
-    margin-top: 20px;
-}
-
-#text-ing5{
-    font-size: 20px;
-    margin-left: 150%;
-    color: #FFFF;
-    font-family:  'Helvetica';
-    white-space: nowrap;
-}
-
-#elipse6{
-    width:  50px;
-    height: 50px;
-    background: #5C96CC;
-    position: relative;
-    border-radius: 60px;
-    margin-left: 440px;
-    margin-top: -330px;
-}
-
-#text-ing6{
-    font-size: 20px;
-    margin-left: 150%;
-    color: #FFFF;
-    font-family:  'Helvetica';
-    white-space: nowrap;
-}
-
-#elipse7{
-    width:  50px;
-    height: 50px;
-    background: #5C96CC;
-    position: relative;
-    border-radius: 60px;
-    margin-left: 440px;
-    margin-top: 20px;
-}
-
-#text-ing7{
-    font-size: 20px;
-    margin-left: 150%;
-    color: #FFFF;
-    font-family:  'Helvetica';
-    white-space: nowrap;
-}
-
-#elipse8{
-    width:  50px;
-    height: 50px;
-    background: #5C96CC;
-    position: relative;
-    border-radius: 60px;
-    margin-left: 440px;
-    margin-top: 20px;
-}
-
-#text-ing8{
-    font-size: 20px;
-    margin-left: 150%;
-    color: #FFFF;
-    font-family:  'Helvetica';
-    white-space: nowrap;
-}
-
-#elipse9{
-    width:  50px;
-    height: 50px;
-    background: #5C96CC;
-    position: relative;
-    border-radius: 60px;
-    margin-left: 440px;
-    margin-top: 20px;
-}
-
-#text-ing9{
-    font-size: 20px;
-    margin-left: 150%;
-    color: #FFFF;
-    font-family:  'Helvetica';
-    white-space: nowrap;
-}
-
-#elipse10{
-    width:  50px;
-    height: 50px;
-    background: #5C96CC;
-    position: relative;
-    border-radius: 60px;
-    margin-left: 440px;
-    margin-top: 20px;
-}
-
-#text-ing10{
-    font-size: 20px;
-    margin-left: 150%;
-    color: #FFFF;
-    font-family:  'Helvetica';
-    white-space: nowrap;
-}
-
-
-/* NOTA DE CORTE */
-
-#color-nota{
-    background-color: #b5b5b5;
-    margin-top: -40px;
-}
-
-#tema-nota{
-    font-weight: bold;
-    color: #FFFF;
-    font-family:  'Helvetica';
-    font-size: 50px;
-    text-align: left;
-    margin-left: 70px;
-    margin-top: 40px;
-    letter-spacing: 0.6px;
-}
-
-#img-nota{
-    width: 500px;
-    height: 500px;
-    margin-left: 200px;
-    margin-top: 40px;
-    border-radius: 100px;
-    
-}
-
-/* MERCADO DE TRABALHO */
-
-#color-mercado{
-    background-color: #6f6f6f;
-    margin-top: -40px;
-}
-
-#mercado{
-    font-weight: bold;
-    color: #FFFF;
-    font-family:  'Helvetica';
-    font-size: 50px;
-    text-align: left;
-    margin-left: 70px;
-    margin-top: 40px;
-    letter-spacing: 0.6px;
-}
-
-#title-mercado{
-    font-weight: bold;
-    color: #FFFF;
-    font-family:  'Helvetica';
-    font-size: 25px;
-}
-
-#text-mercado{
-    color: #FFFF;
-    font-family:  'Helvetica';
-    font-size: 17px;
-}
-
-#img-mercado{
-    width: 350px;
-    height: 220px;
-    margin-top: -30px;
-    margin-left: 150px;
-    box-shadow: 5px 5px 5px rgb(0, 0, 0);
-    
-}
-
-#img-mercado2{
-    width: 350px;
-    height: 220px;
-    margin-top: -30px;
-    margin-left: 150px;
-    box-shadow: 5px 5px 5px rgb(0, 0, 0);
-    
-}
 
 
 /* ÁREAS DE TRABALHO */
@@ -677,31 +85,31 @@
     background-color: #4F2020;
     margin-left: 0px;
     width: 350px;
-    height: 510px;
+    height: 550px;
     border-radius: 15px;
 }
 
 #cards2{
     background-color: #4F2020;
     margin-left: 375px;
-    margin-top: -533px;
+    margin-top: -572px;
     width: 350px;
-    height: 510px;
+    height: 550px;
     border-radius: 15px;
 }
 
 #cards3{
     background-color: #4F2020;
     margin-left: 750px;
-    margin-top: -532px;
+    margin-top: -573px;
     width: 350px;
-    height: 510px;
+    height: 550px;
     border-radius: 15px;
 }
 
 #img-area{
     width: 300px;
-    height: 270px;
+    height: 320px;
     margin-left: 25px;
     margin-top: 8px;
     border-radius: 30px;
@@ -709,7 +117,7 @@
 
 #img-area2{
     width: 300px;
-    height: 290px;
+    height: 330px;
     margin-left: 25px;
     margin-top: 8px;
     border-radius: 30px;
@@ -717,7 +125,7 @@
 
 #img-area3{
     width: 300px;
-    height: 290px;
+    height: 340px;
     margin-left: 25px;
     margin-top: 8px;
     border-radius: 30px;
@@ -730,7 +138,7 @@
     font-family:  'Helvetica';
     font-size: 50px;
     text-align: left;
-    margin-left: 0px;
+    margin-left: 5px;
     margin-top: 40px;
     letter-spacing: 0.6px;
 }
@@ -739,7 +147,7 @@
     letter-spacing: 0.6px;
     font-size: 20px;
     padding: 30px;
-    margin-left: 40px;
+    margin-left: 75px;
     color: #FFFF;
     font-family:  'Helvetica';
 }
@@ -768,7 +176,7 @@
     letter-spacing: 0.6px;
     font-size: 20px;
     padding: 30px;
-    margin-left: 70px;
+    margin-left: 65px;
     color: #FFFF;
     font-family:  'Helvetica';
 }
@@ -797,7 +205,7 @@
     letter-spacing: 0.6px;
     font-size: 20px;
     padding: 30px;
-    margin-left: 50px;
+    margin-left: 60px;
     color: #FFFF;
     font-family:  'Helvetica';
 }
@@ -1119,22 +527,22 @@
     }
 
     #perfil1{
-        margin-top: 250px;
+        margin-top: 290px;
     }
 
     #tamsob{
         margin-left: 0px;
-        margin-top: -600px;
+        margin-top: -750px;
     }
 
     #perfil2{
         margin-left: 35px;
-        margin-top: 200px;
+        margin-top: 400px;
     }
 
     #tamsob2{
         margin-left: 5px;
-        margin-top: -650px;
+        margin-top: -790px;
     }
 
     /* RESPONSIVO APRENDER */
@@ -1200,19 +608,20 @@
 
     #title-area{
         font-size: 30px;
-        margin-left: 50px;
+        margin-left: 230px;
     }
 
     #cards{
-        margin-left: 30px;
+        margin-left: 200px;
     }
 
     #cards2{
-        margin-left: 450px;
+        margin-left: 200px;
+        margin-top: 20px;
     }
 
     #cards3{
-        margin-left: 240px;
+        margin-left: 200px;
         margin-top: 20px;
     }
 
