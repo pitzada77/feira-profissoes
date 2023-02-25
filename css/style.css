@@ -553,7 +553,7 @@
 
     #tamsob{
         margin-left: 0px;
-        margin-top: -899px;
+        margin-top: -915px;
     }
 
     #perfil2{
@@ -563,7 +563,7 @@
 
     #tamsob2{
         margin-left: 5px;
-        margin-top: -840px;
+        margin-top: -915px;
     }
 
     
@@ -574,7 +574,7 @@
 
     #tamsob3{
         margin-left: 5px;
-        margin-top: -899px;
+        margin-top: -915px;
     }
 
     /* RESPONSIVO APRENDER */
@@ -640,20 +640,20 @@
 
     #title-area{
         font-size: 30px;
-        margin-left: 150px;
+        margin-left: 112px;
     }
 
     #cards{
-        margin-left: 95px;
+        margin-left: 85px;
     }
 
     #cards2{
-        margin-left: 120px;
+        margin-left: 85px;
         margin-top: 20px;
     }
 
     #cards3{
-        margin-left: 120px;
+        margin-left: 85px;
         margin-top: 20px;
     }
 
@@ -750,7 +750,7 @@
 
     #video{
         margin-left: 25px;
-        width: 530px;
+        width: 350px;
         height: 300px;
         margin-top: 40px;
     }
