@@ -1,5 +1,4 @@
 
-
 #tamimg{
     width: 1310px;
     height: 670px;
@@ -28,7 +27,7 @@
 }
 
 #perfil1{
-    
+   
     margin-bottom: 10px;
     letter-spacing: 0.6px;
     font-size: 20px;
@@ -40,6 +39,17 @@
 }
 
 #perfil2{
+    
+    margin-left: 380px;
+    margin-top: -10px;
+    letter-spacing: 0.6px;
+    font-size: 20px;
+    padding: 30px;
+    font-family:  'Helvetica';
+    color: #FFFF;
+}
+
+#perfil3{
     
     margin-left: 380px;
     margin-top: -10px;
@@ -68,6 +78,17 @@
     margin-left: 900px;
     border-radius: 30px;
     margin-top: -140px;
+    margin-left: -350px;
+}
+
+#tamsob3{
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
+    width: 320px;
+    height: 400px;
+    border-radius: 12px;
+    margin-left: 900px;
+    border-radius: 30px;
+    margin-top: -900px;
     margin-left: -350px;
 }
 
@@ -523,7 +544,7 @@
     /* RESPONSIVO PERFIL */
 
     #tema-perfil{
-        font-size: 30px;
+        font-size: 40px;
     }
 
     #perfil1{
@@ -532,7 +553,7 @@
 
     #tamsob{
         margin-left: 0px;
-        margin-top: -750px;
+        margin-top: -840px;
     }
 
     #perfil2{
@@ -542,7 +563,18 @@
 
     #tamsob2{
         margin-left: 5px;
-        margin-top: -790px;
+        margin-top: -840px;
+    }
+
+    
+    #perfil3{
+        margin-left: 35px;
+        margin-top: 400px;
+    }
+
+    #tamsob3{
+        margin-left: 5px;
+        margin-top: -899px;
     }
 
     /* RESPONSIVO APRENDER */
@@ -608,20 +640,20 @@
 
     #title-area{
         font-size: 30px;
-        margin-left: 230px;
+        margin-left: 150px;
     }
 
     #cards{
-        margin-left: 200px;
+        margin-left: 120px;
     }
 
     #cards2{
-        margin-left: 200px;
+        margin-left: 120px;
         margin-top: 20px;
     }
 
     #cards3{
-        margin-left: 200px;
+        margin-left: 120px;
         margin-top: 20px;
     }
 
@@ -717,9 +749,9 @@
     }
 
     #video{
-        margin-left: 130px;
-        width: 700px;
-        height: 500px;
+        margin-left: 25px;
+        width: 530px;
+        height: 300px;
         margin-top: 40px;
     }
 
